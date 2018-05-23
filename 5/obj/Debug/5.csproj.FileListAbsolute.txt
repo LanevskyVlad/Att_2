@@ -1,0 +1,12 @@
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\bin\Debug\5.exe.config
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\bin\Debug\5.exe
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\bin\Debug\5.pdb
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\5.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\_5.BinTree.resources
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\5.csproj.GenerateResource.Cache
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\5.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\5.exe
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\5\obj\Debug\5.pdb

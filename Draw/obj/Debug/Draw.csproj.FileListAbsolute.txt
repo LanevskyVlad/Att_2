@@ -1,0 +1,8 @@
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\bin\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\bin\Debug\Draw.pdb
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\bin\Debug\Tools.dll
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\bin\Debug\Tools.pdb
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\obj\Debug\Draw.dll
+C:\Users\sidad\Desktop\people\lanevskiV\2sem\Att2\Draw\obj\Debug\Draw.pdb
